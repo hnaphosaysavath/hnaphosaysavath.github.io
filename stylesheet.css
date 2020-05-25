@@ -1,0 +1,60 @@
+body, html{
+    background-color: pink;
+    height:100%;
+    width:100%;
+}
+.banner{
+
+    text-align: center;
+    background-repeat: no-repeat;
+    position: relative;
+    
+}
+.nav{
+    margin-left:25%;
+    text-align:center;
+    width:50%;
+
+}
+.topnav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    background-color:#bde4ee;
+}
+
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:15px;
+    text-decoration: none;
+    margin-right:20px;
+    margin-left:35px;
+  }
+  
+  li a:hover {
+    background-color:lightpink;
+  }
+  .c1 {
+    color: rgb(219, 215, 215);
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 50%; 
+    margin-left: 25%;
+
+}
+
+.c1 h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+ line-height: 30px;
+ 
+ }
