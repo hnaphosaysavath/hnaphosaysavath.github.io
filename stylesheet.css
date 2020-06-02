@@ -58,3 +58,11 @@ p {
  line-height: 30px;
  
  }
+
+ .c1 .s1 {
+  float: right;
+ }
+
+ .c1 .s2 {
+  float: left;
+ }
